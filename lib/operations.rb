@@ -12,4 +12,4 @@ def not_safe?(speed)
 end
 	
 
-
+#I initially had return true and return false. The return was redundant. Code ran when I removed return
